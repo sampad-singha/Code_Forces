@@ -5,8 +5,11 @@ int main()
 {
 
     string s;
-    cin >> s;
-    cout << s.length();
+    // cin >> s;
+    // cout << s.length();
+    int t = -10,sum;
+    sum = (t);
+    cout<<sum;
 
     return 0;
 }
